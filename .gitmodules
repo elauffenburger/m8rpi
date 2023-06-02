@@ -1,6 +1,7 @@
 [submodule "fbcp-ili9341"]
 	path = fbcp-ili9341
 	url = https://github.com/juj/fbcp-ili9341
+    ignore = dirty
 [submodule "m8client"]
 	path = m8client
 	url = https://github.com/elauffenburger/m8client
