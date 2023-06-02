@@ -4,10 +4,10 @@ M8_SCRIPT_DIR=$(readlink -f $(dirname $BASH_SOURCE))
 
 # Note: all pins reference the BCM number of the pin,
 # _not_ their GPIO label.
-M8_GPIO_LEFT=21
-M8_GPIO_UP=16
-M8_GPIO_RIGHT=20
-M8_GPIO_DOWN=12
+M8_GPIO_LEFT=16
+M8_GPIO_UP=20
+M8_GPIO_RIGHT=12
+M8_GPIO_DOWN=21
 
 M8_GPIO_SELECT=5
 M8_GPIO_START=6
